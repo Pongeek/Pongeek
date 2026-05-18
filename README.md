@@ -52,12 +52,12 @@ STATUS ....... Online · ready for raids
 
 <div align="center">
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pongeek&theme=radical" alt="stats" />
+<img height="200" src="https://github-readme-stats-gamma-dun-47.vercel.app/api?username=Pongeek&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF&ring_color=FF2A6D&count_private=true" alt="stats" />
 <img height="200" src="https://streak-stats.demolab.com?user=Pongeek&theme=synthwave&hide_border=true&background=0D0221&stroke=05D9E8&ring=FF2A6D&fire=FF2A6D&currStreakLabel=05D9E8&dates=D1F7FF&sideNums=D1F7FF&sideLabels=05D9E8&currStreakNum=D1F7FF" alt="streak" />
 
 <br/>
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pongeek&theme=radical&exclude=C" alt="top languages" />
+<img height="200" src="https://github-readme-stats-gamma-dun-47.vercel.app/api/top-langs/?username=Pongeek&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&text_color=D1F7FF&langs_count=8" alt="top languages" />
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pongeek&theme=radical&utcOffset=2" alt="productive time" />
 
 </div>
