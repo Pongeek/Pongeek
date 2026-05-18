@@ -52,12 +52,13 @@ STATUS ....... Online · ready for raids
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pongeek&show_icons=true&theme=synthwave&hide_border=true&count_private=true&cache_seconds=1800" alt="stats" />
-<img height="180" src="https://streak-stats.demolab.com?user=Pongeek&theme=synthwave&hide_border=true&background=0D0221&stroke=05D9E8&ring=FF2A6D&fire=FF2A6D&currStreakLabel=05D9E8&dates=D1F7FF&sideNums=D1F7FF&sideLabels=05D9E8&currStreakNum=D1F7FF" alt="streak" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pongeek&theme=radical" alt="stats" />
+<img height="200" src="https://streak-stats.demolab.com?user=Pongeek&theme=synthwave&hide_border=true&background=0D0221&stroke=05D9E8&ring=FF2A6D&fire=FF2A6D&currStreakLabel=05D9E8&dates=D1F7FF&sideNums=D1F7FF&sideLabels=05D9E8&currStreakNum=D1F7FF" alt="streak" />
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pongeek&layout=compact&theme=synthwave&hide_border=true&langs_count=8&cache_seconds=1800" alt="top languages" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pongeek&theme=radical" alt="top languages" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pongeek&theme=radical&utcOffset=2" alt="productive time" />
 
 </div>
 
@@ -110,17 +111,17 @@ STATUS ....... Online · ready for raids
 <div align="center">
 
 <a href="https://github.com/Pongeek/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pongeek&repo=Portfolio&theme=synthwave&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://opengraph.githubassets.com/main/Pongeek/Portfolio" alt="Portfolio" />
 </a>
 <a href="https://github.com/Pongeek/TileTech">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pongeek&repo=TileTech&theme=synthwave&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://opengraph.githubassets.com/main/Pongeek/TileTech" alt="TileTech" />
 </a>
 
 <a href="https://github.com/Pongeek/CoupCoupon-client">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pongeek&repo=CoupCoupon-client&theme=synthwave&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://opengraph.githubassets.com/main/Pongeek/CoupCoupon-client" alt="CoupCoupon-client" />
 </a>
 <a href="https://github.com/Pongeek/C-Lab-Programming">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pongeek&repo=C-Lab-Programming&theme=synthwave&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://opengraph.githubassets.com/main/Pongeek/C-Lab-Programming" alt="C-Lab-Programming" />
 </a>
 
 </div>
