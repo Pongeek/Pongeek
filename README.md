@@ -8,7 +8,7 @@
 
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-  Hi, I'm <b>Max Mullokandov</b> — but you can call me <b><code>Pongeek</code></b>
+  Hi, I'm <b>Max Mullokandov</b> - but you can call me <b><code>Pongeek</code></b>
 </h3>
 
 <a href="https://github.com/Pongeek">
@@ -50,17 +50,24 @@ STATUS ....... Online · ready for raids
 
 ## `> ./player_stats.exe`
 
-<div align="center">
-
-<img height="200" src="https://github-readme-stats-gamma-dun-47.vercel.app/api?username=Pongeek&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF&ring_color=FF2A6D&count_private=true" alt="stats" />
-<img height="200" src="https://streak-stats.demolab.com?user=Pongeek&theme=synthwave&hide_border=true&background=0D0221&stroke=05D9E8&ring=FF2A6D&fire=FF2A6D&currStreakLabel=05D9E8&dates=D1F7FF&sideNums=D1F7FF&sideLabels=05D9E8&currStreakNum=D1F7FF" alt="streak" />
-
-<br/>
-
-<img height="200" src="https://github-readme-stats-gamma-dun-47.vercel.app/api/top-langs/?username=Pongeek&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&text_color=D1F7FF&langs_count=8" alt="top languages" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pongeek&theme=radical&utcOffset=2" alt="productive time" />
-
-</div>
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats-gamma-dun-47.vercel.app/api?username=Pongeek&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF&ring_color=FF2A6D&count_private=true&card_width=450" alt="stats" />
+</td>
+<td width="50%" align="center">
+  <img src="https://streak-stats.demolab.com?user=Pongeek&theme=synthwave&hide_border=true&background=0D0221&stroke=05D9E8&ring=FF2A6D&fire=FF2A6D&currStreakLabel=05D9E8&dates=D1F7FF&sideNums=D1F7FF&sideLabels=05D9E8&currStreakNum=D1F7FF&card_width=450" alt="streak" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats-gamma-dun-47.vercel.app/api/top-langs/?username=Pongeek&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&text_color=D1F7FF&langs_count=8&card_width=450" alt="top languages" />
+</td>
+<td width="50%" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pongeek&theme=radical&utcOffset=2" alt="productive time" />
+</td>
+</tr>
+</table>
 
 <br/>
 
