@@ -12,7 +12,7 @@
 </h3>
 
 <a href="https://github.com/Pongeek">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=FF2A6D&center=true&vCenter=true&width=780&height=50&lines=Building+AI+that+makes+learning+feel+like+a+game" alt="typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=FF2A6D&center=true&vCenter=true&width=900&height=50&lines=Building+AI+that+makes+learning+feel+like+a+game" alt="typing tagline" />
 </a>
 
 <br/>
@@ -34,14 +34,12 @@
 ## `> ./about_me.exe`
 
 ```text
-┌───────────────────────────────────────────────┐
-│  NAME ......... Max Mullokandov               │
-│  CLASS ........ Full-Stack Mage               │
-│  QUEST ........ Game-ifying education         │
-│  WEAPONS ...... TypeScript · Java · C         │
-│  XP ........... Gaining daily ▰▰▰▰▰▰▱▱▱▱     │
-│  STATUS ....... 🟢 Online · ready for raids   │
-└───────────────────────────────────────────────┘
+NAME ......... Max Mullokandov
+CLASS ........ Full-Stack Mage
+QUEST ........ Game-ifying education
+WEAPONS ...... TypeScript · Java · Python
+XP ........... Gaining daily [#######---]
+STATUS ....... Online · ready for raids
 ```
 
 <br/>
@@ -54,12 +52,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pongeek&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF&ring_color=FF2A6D" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pongeek&show_icons=true&theme=synthwave&hide_border=true&count_private=true&cache_seconds=1800" alt="stats" />
 <img height="180" src="https://streak-stats.demolab.com?user=Pongeek&theme=synthwave&hide_border=true&background=0D0221&stroke=05D9E8&ring=FF2A6D&fire=FF2A6D&currStreakLabel=05D9E8&dates=D1F7FF&sideNums=D1F7FF&sideLabels=05D9E8&currStreakNum=D1F7FF" alt="streak" />
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pongeek&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&text_color=D1F7FF&langs_count=8" alt="top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pongeek&layout=compact&theme=synthwave&hide_border=true&langs_count=8&cache_seconds=1800" alt="top languages" />
 
 </div>
 
@@ -76,7 +74,7 @@
 🛡️   SHIELD ............... Next.js · React
 🧪   POTIONS .............. Tailwind · Framer Motion · shadcn/ui
 📜   SPELLBOOK ............ Claude API · Supabase · Node
-🗝️   ANCIENT RELICS ....... Java · C · PostgreSQL · Smalltalk
+🗝️   ANCIENT RELICS ....... Java · Python · PostgreSQL · Smalltalk
 🛠️   FORGE TOOLS .......... Git · Vercel · Figma · VS Code
 ```
 
@@ -94,7 +92,7 @@
 ![Node](https://img.shields.io/badge/-Node.js-0D0221?style=for-the-badge&logo=node.js&logoColor=FF2A6D)
 
 ![Java](https://img.shields.io/badge/-Java-0D0221?style=for-the-badge&logo=openjdk&logoColor=05D9E8)
-![C](https://img.shields.io/badge/-C-0D0221?style=for-the-badge&logo=c&logoColor=FF2A6D)
+![Python](https://img.shields.io/badge/-Python-0D0221?style=for-the-badge&logo=python&logoColor=FF2A6D)
 ![Git](https://img.shields.io/badge/-Git-0D0221?style=for-the-badge&logo=git&logoColor=05D9E8)
 ![Vercel](https://img.shields.io/badge/-Vercel-0D0221?style=for-the-badge&logo=vercel&logoColor=FF2A6D)
 ![Figma](https://img.shields.io/badge/-Figma-0D0221?style=for-the-badge&logo=figma&logoColor=05D9E8)
@@ -111,18 +109,18 @@
 
 <div align="center">
 
-<a href="https://github.com/Pongeek/StudyQuest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pongeek&repo=StudyQuest&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF" />
-</a>
 <a href="https://github.com/Pongeek/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pongeek&repo=Portfolio&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pongeek&repo=Portfolio&theme=synthwave&hide_border=true&cache_seconds=1800" />
+</a>
+<a href="https://github.com/Pongeek/TileTech">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pongeek&repo=TileTech&theme=synthwave&hide_border=true&cache_seconds=1800" />
 </a>
 
-<a href="https://github.com/Pongeek/TileTech">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pongeek&repo=TileTech&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF" />
-</a>
 <a href="https://github.com/Pongeek/CoupCoupon-client">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pongeek&repo=CoupCoupon-client&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pongeek&repo=CoupCoupon-client&theme=synthwave&hide_border=true&cache_seconds=1800" />
+</a>
+<a href="https://github.com/Pongeek/C-Lab-Programming">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pongeek&repo=C-Lab-Programming&theme=synthwave&hide_border=true&cache_seconds=1800" />
 </a>
 
 </div>
@@ -175,10 +173,10 @@
 <a href="mailto:your-email@example.com">
   <img src="https://img.shields.io/badge/-EMAIL-0D0221?style=for-the-badge&logo=gmail&logoColor=FF2A6D" />
 </a>
-<a href="https://linkedin.com/in/your-handle">
+<a href="https://www.linkedin.com/in/maxim-mullokandov/">
   <img src="https://img.shields.io/badge/-LINKEDIN-0D0221?style=for-the-badge&logo=linkedin&logoColor=05D9E8" />
 </a>
-<a href="https://github.com/Pongeek/Portfolio">
+<a href="https://maxmullo.com/">
   <img src="https://img.shields.io/badge/-PORTFOLIO-0D0221?style=for-the-badge&logo=vercel&logoColor=FF2A6D" />
 </a>
 
