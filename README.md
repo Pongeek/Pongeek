@@ -78,32 +78,58 @@ STATUS ....... Online · ready for raids
 ## `> ./open_inventory.exe`
 
 ```text
-⚔️   PRIMARY WEAPON ....... TypeScript
-🛡️   SHIELD ............... Next.js · React
-🧪   POTIONS .............. Tailwind · Framer Motion · shadcn/ui
-📜   SPELLBOOK ............ Claude API · Supabase · Node
-🗝️   ANCIENT RELICS ....... Java · Python · PostgreSQL · Smalltalk
-🛠️   FORGE TOOLS .......... Git · Vercel · Figma · VS Code
+⚔️   LANGUAGES ............ Java, TypeScript, JavaScript, Python, SQL
+📜   BACKEND .............. Spring Boot, FastAPI, Node.js, REST APIs, JWT
+🛡️   FRONTEND ............. React, Next.js, Redux, Tailwind CSS, RTL Support
+🧪   DATABASES ............ PostgreSQL, MySQL
+🔮   AI COMPANIONS ........ GitHub Copilot, Claude Code, ChatGPT, Cursor
+☁️   CLOUD & DEVOPS ....... AWS (Lambda, EC2, S3, RDS), Docker, Kubernetes, CI/CD, Vercel
+🛠️   FORGE TOOLS .......... Git, GitHub, Linux, Swagger/OpenAPI, Postman, IntelliJ, VS Code
 ```
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D0221?style=for-the-badge&logo=typescript&logoColor=05D9E8)
-![Next.js](https://img.shields.io/badge/-Next.js-0D0221?style=for-the-badge&logo=nextdotjs&logoColor=FF2A6D)
-![React](https://img.shields.io/badge/-React-0D0221?style=for-the-badge&logo=react&logoColor=05D9E8)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-0D0221?style=for-the-badge&logo=tailwindcss&logoColor=FF2A6D)
-![Framer](https://img.shields.io/badge/-Framer_Motion-0D0221?style=for-the-badge&logo=framer&logoColor=05D9E8)
-
-![Supabase](https://img.shields.io/badge/-Supabase-0D0221?style=for-the-badge&logo=supabase&logoColor=05D9E8)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D0221?style=for-the-badge&logo=postgresql&logoColor=FF2A6D)
-![Anthropic](https://img.shields.io/badge/-Claude_API-0D0221?style=for-the-badge&logo=anthropic&logoColor=05D9E8)
-![Node](https://img.shields.io/badge/-Node.js-0D0221?style=for-the-badge&logo=node.js&logoColor=FF2A6D)
-
+<!-- Languages -->
 ![Java](https://img.shields.io/badge/-Java-0D0221?style=for-the-badge&logo=openjdk&logoColor=05D9E8)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D0221?style=for-the-badge&logo=typescript&logoColor=FF2A6D)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=05D9E8)
 ![Python](https://img.shields.io/badge/-Python-0D0221?style=for-the-badge&logo=python&logoColor=FF2A6D)
-![Git](https://img.shields.io/badge/-Git-0D0221?style=for-the-badge&logo=git&logoColor=05D9E8)
+![SQL](https://img.shields.io/badge/-SQL-0D0221?style=for-the-badge&logo=mysql&logoColor=05D9E8)
+
+<!-- Backend -->
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-0D0221?style=for-the-badge&logo=springboot&logoColor=05D9E8)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0D0221?style=for-the-badge&logo=fastapi&logoColor=FF2A6D)
+![Node.js](https://img.shields.io/badge/-Node.js-0D0221?style=for-the-badge&logo=node.js&logoColor=05D9E8)
+![JWT](https://img.shields.io/badge/-JWT-0D0221?style=for-the-badge&logo=jsonwebtokens&logoColor=FF2A6D)
+
+<!-- Frontend -->
+![React](https://img.shields.io/badge/-React-0D0221?style=for-the-badge&logo=react&logoColor=05D9E8)
+![Next.js](https://img.shields.io/badge/-Next.js-0D0221?style=for-the-badge&logo=nextdotjs&logoColor=FF2A6D)
+![Redux](https://img.shields.io/badge/-Redux-0D0221?style=for-the-badge&logo=redux&logoColor=05D9E8)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-0D0221?style=for-the-badge&logo=tailwindcss&logoColor=FF2A6D)
+
+<!-- Databases & AI -->
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D0221?style=for-the-badge&logo=postgresql&logoColor=05D9E8)
+![MySQL](https://img.shields.io/badge/-MySQL-0D0221?style=for-the-badge&logo=mysql&logoColor=FF2A6D)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-0D0221?style=for-the-badge&logo=githubcopilot&logoColor=05D9E8)
+![Claude](https://img.shields.io/badge/-Claude_Code-0D0221?style=for-the-badge&logo=anthropic&logoColor=FF2A6D)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-0D0221?style=for-the-badge&logo=openai&logoColor=05D9E8)
+![Cursor](https://img.shields.io/badge/-Cursor-0D0221?style=for-the-badge&logo=cursor&logoColor=FF2A6D)
+
+<!-- Cloud & DevOps -->
+![AWS](https://img.shields.io/badge/-AWS-0D0221?style=for-the-badge&logo=amazonwebservices&logoColor=05D9E8)
+![Docker](https://img.shields.io/badge/-Docker-0D0221?style=for-the-badge&logo=docker&logoColor=FF2A6D)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D0221?style=for-the-badge&logo=kubernetes&logoColor=05D9E8)
 ![Vercel](https://img.shields.io/badge/-Vercel-0D0221?style=for-the-badge&logo=vercel&logoColor=FF2A6D)
-![Figma](https://img.shields.io/badge/-Figma-0D0221?style=for-the-badge&logo=figma&logoColor=05D9E8)
+
+<!-- Tools -->
+![Git](https://img.shields.io/badge/-Git-0D0221?style=for-the-badge&logo=git&logoColor=05D9E8)
+![GitHub](https://img.shields.io/badge/-GitHub-0D0221?style=for-the-badge&logo=github&logoColor=FF2A6D)
+![Linux](https://img.shields.io/badge/-Linux-0D0221?style=for-the-badge&logo=linux&logoColor=05D9E8)
+![Swagger](https://img.shields.io/badge/-Swagger-0D0221?style=for-the-badge&logo=swagger&logoColor=FF2A6D)
+![Postman](https://img.shields.io/badge/-Postman-0D0221?style=for-the-badge&logo=postman&logoColor=05D9E8)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-0D0221?style=for-the-badge&logo=intellijidea&logoColor=FF2A6D)
+![VS Code](https://img.shields.io/badge/-VS_Code-0D0221?style=for-the-badge&logo=visualstudiocode&logoColor=05D9E8)
 
 </div>
 
