@@ -57,7 +57,7 @@ STATUS ....... Online · ready for raids
 
 <br/>
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pongeek&theme=radical" alt="top languages" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pongeek&theme=radical&exclude=C" alt="top languages" />
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pongeek&theme=radical&utcOffset=2" alt="productive time" />
 
 </div>
@@ -97,32 +97,6 @@ STATUS ....... Online · ready for raids
 ![Git](https://img.shields.io/badge/-Git-0D0221?style=for-the-badge&logo=git&logoColor=05D9E8)
 ![Vercel](https://img.shields.io/badge/-Vercel-0D0221?style=for-the-badge&logo=vercel&logoColor=FF2A6D)
 ![Figma](https://img.shields.io/badge/-Figma-0D0221?style=for-the-badge&logo=figma&logoColor=05D9E8)
-
-</div>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║                  CURRENT QUESTS                          ║ -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-## `> ./current_quests.exe`
-
-<div align="center">
-
-<a href="https://github.com/Pongeek/Portfolio">
-  <img width="49%" src="https://opengraph.githubassets.com/main/Pongeek/Portfolio" alt="Portfolio" />
-</a>
-<a href="https://github.com/Pongeek/TileTech">
-  <img width="49%" src="https://opengraph.githubassets.com/main/Pongeek/TileTech" alt="TileTech" />
-</a>
-
-<a href="https://github.com/Pongeek/CoupCoupon-client">
-  <img width="49%" src="https://opengraph.githubassets.com/main/Pongeek/CoupCoupon-client" alt="CoupCoupon-client" />
-</a>
-<a href="https://github.com/Pongeek/C-Lab-Programming">
-  <img width="49%" src="https://opengraph.githubassets.com/main/Pongeek/C-Lab-Programming" alt="C-Lab-Programming" />
-</a>
 
 </div>
 
