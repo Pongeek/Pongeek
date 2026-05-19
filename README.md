@@ -25,7 +25,7 @@
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Pongeek/Pongeek/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!-- ║                      ABOUT                               ║ -->
@@ -42,7 +42,7 @@ XP ........... Gaining daily [#######---]
 STATUS ....... Online · ready for raids
 ```
 
-<br/>
+<img src="https://raw.githubusercontent.com/Pongeek/Pongeek/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!-- ║                   PLAYER STATS                           ║ -->
@@ -69,7 +69,7 @@ STATUS ....... Online · ready for raids
 </tr>
 </table>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Pongeek/Pongeek/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!-- ║                    INVENTORY                             ║ -->
@@ -133,7 +133,7 @@ STATUS ....... Online · ready for raids
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Pongeek/Pongeek/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!-- ║                  ACHIEVEMENTS                            ║ -->
@@ -147,7 +147,7 @@ STATUS ....... Online · ready for raids
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Pongeek/Pongeek/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!-- ║                  ACTIVITY LOG                            ║ -->
@@ -165,7 +165,7 @@ STATUS ....... Online · ready for raids
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Pongeek/Pongeek/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!-- ║                     CONNECT                              ║ -->
@@ -186,6 +186,12 @@ STATUS ....... Online · ready for raids
 </a>
 <a href="https://maxmullo.com/">
   <img src="https://img.shields.io/badge/-PORTFOLIO-0D0221?style=for-the-badge&logo=vercel&logoColor=FF2A6D" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Pongeek/Pongeek/raw/main/Max_Mullokandov_CV.pdf">
+  <img src="https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_CV-FF2A6D?style=for-the-badge&logo=adobeacrobatreader&logoColor=0D0221&labelColor=0D0221" />
 </a>
 
 <br/><br/>

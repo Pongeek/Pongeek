@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 6" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0D0221" />
+      <stop offset="0.2" stop-color="#FF2A6D">
+        <animate attributeName="stop-color" values="#FF2A6D;#05D9E8;#D300C5;#FF2A6D" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="0.5" stop-color="#05D9E8">
+        <animate attributeName="stop-color" values="#05D9E8;#D300C5;#FF2A6D;#05D9E8" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="0.8" stop-color="#FF2A6D">
+        <animate attributeName="stop-color" values="#FF2A6D;#05D9E8;#D300C5;#FF2A6D" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="1" stop-color="#0D0221" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="6" fill="url(#neon)" filter="url(#glow)" />
+</svg>
