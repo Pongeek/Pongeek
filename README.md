@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,40:6A1B9A,100:FF2A6D&height=280&section=header&text=Max%20Mullokandov&fontSize=64&fontColor=05D9E8&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Game-ifying%20learning&descSize=20&descAlignY=62&descAlign=50&descColor=D1F7FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,40:6A1B9A,100:FF2A6D&height=280&section=header&text=Max%20Mullokandov&fontSize=64&fontColor=05D9E8&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer&descSize=20&descAlignY=62&descAlign=50&descColor=D1F7FF" />
 
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
@@ -208,8 +208,6 @@ STATUS ....... Online · ready for raids
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2A6D,60:6A1B9A,100:0D0221&height=120&section=footer" />
-
-<sub>⚡ <b>Thanks for stopping by</b> · <i>GAME OVER? Insert coin to continue</i></sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2A6D,60:6A1B9A,100:0D0221&height=160&section=footer&text=GAME%20OVER%20%E2%80%A2%20INSERT%20COIN&fontSize=18&fontColor=05D9E8&animation=fadeIn&fontAlignY=70" />
 
 </div>
