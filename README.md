@@ -72,6 +72,36 @@ STATUS ....... Online · ready for raids
 <img src="https://raw.githubusercontent.com/Pongeek/Pongeek/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                  FEATURED QUESTS                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## `> ./featured_quests.exe`
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/Pongeek/TileTech">
+    <img src="https://github-readme-stats-gamma-dun-47.vercel.app/api/pin/?username=Pongeek&repo=TileTech&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF" alt="TileTech" />
+  </a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/Pongeek/Portfolio">
+    <img src="https://github-readme-stats-gamma-dun-47.vercel.app/api/pin/?username=Pongeek&repo=Portfolio&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF" alt="Portfolio" />
+  </a>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+  <a href="https://github.com/Pongeek/CoupCoupon-client">
+    <img src="https://github-readme-stats-gamma-dun-47.vercel.app/api/pin/?username=Pongeek&repo=CoupCoupon-client&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF" alt="CoupCoupon" />
+  </a>
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/Pongeek/Pongeek/main/assets/divider.svg" width="100%" height="6" alt="" />
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!-- ║                    INVENTORY                             ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
@@ -86,6 +116,11 @@ STATUS ....... Online · ready for raids
 ☁️   CLOUD & DEVOPS ....... AWS (Lambda, EC2, S3, RDS), Docker, Kubernetes, CI/CD, Vercel
 🛠️   FORGE TOOLS .......... Git, GitHub, Linux, Swagger/OpenAPI, Postman, IntelliJ, VS Code
 ```
+
+<details>
+<summary><b>📦 &nbsp;TAP TO INSPECT BADGES</b></summary>
+
+<br/>
 
 <div align="center">
 
@@ -133,6 +168,8 @@ STATUS ....... Online · ready for raids
 
 </div>
 
+</details>
+
 <img src="https://raw.githubusercontent.com/Pongeek/Pongeek/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
@@ -178,7 +215,7 @@ STATUS ....... Online · ready for raids
 <a href="https://github.com/Pongeek">
   <img src="https://img.shields.io/badge/-GITHUB-0D0221?style=for-the-badge&logo=github&logoColor=05D9E8" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:maximpim95@gmail.com">
   <img src="https://img.shields.io/badge/-EMAIL-0D0221?style=for-the-badge&logo=gmail&logoColor=FF2A6D" />
 </a>
 <a href="https://www.linkedin.com/in/maxim-mullokandov/">
