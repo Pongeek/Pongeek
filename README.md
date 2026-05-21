@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,40:6A1B9A,100:FF2A6D&height=240&section=header&text=Max%20Mullokandov&fontSize=64&fontColor=05D9E8&animation=fadeIn&fontAlignY=36&desc=%E2%96%B6%20a.k.a.%20PONGEEK%20%E2%97%80&descSize=20&descAlignY=62&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,40:6A1B9A,100:FF2A6D&height=240&section=header&text=Max%20Mullokandov&fontSize=64&fontColor=05D9E8&animation=fadeIn&fontAlignY=50" />
 
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-  Hi, I'm <b>Max Mullokandov</b> - but you can call me <b><code>Pongeek</code></b>
+  Hi, I'm <b>Max Mullokandov</b>
 </h3>
 
 <a href="https://github.com/Pongeek">
