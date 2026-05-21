@@ -17,11 +17,11 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Pongeek&label=VISITORS&color=FF2A6D&style=for-the-badge" alt="profile views" />
-&nbsp;
 <img src="https://img.shields.io/github/followers/Pongeek?label=FOLLOWERS&style=for-the-badge&color=05D9E8&labelColor=0D0221" alt="followers" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-ONLINE-05D9E8?style=for-the-badge&labelColor=0D0221" alt="status" />
+<img src="https://img.shields.io/badge/OPEN_TO-WORK-05D9E8?style=for-the-badge&labelColor=0D0221" alt="open to work" />
+&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-ISRAEL-FF2A6D?style=for-the-badge&labelColor=0D0221" alt="location" />
 
 </div>
 
@@ -210,6 +210,6 @@ STATUS ....... Online · ready for raids
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2A6D,60:6A1B9A,100:0D0221&height=120&section=footer" />
 
-<sub>⚡ <b>Thanks for visiting</b> · don't forget to ⭐ your favorite quest · <i>GAME OVER? insert coin to continue</i></sub>
+<sub>⚡ <b>Thanks for stopping by</b> · <i>GAME OVER? Insert coin to continue</i></sub>
 
 </div>
