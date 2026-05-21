@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,40:6A1B9A,100:FF2A6D&height=240&section=header&text=Max%20Mullokandov&fontSize=64&fontColor=05D9E8&animation=fadeIn&fontAlignY=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,40:6A1B9A,100:FF2A6D&height=280&section=header&text=Max%20Mullokandov&fontSize=64&fontColor=05D9E8&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Game-ifying%20learning&descSize=20&descAlignY=62&descAlign=50&descColor=D1F7FF" />
 
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
