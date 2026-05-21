@@ -61,7 +61,7 @@ STATUS ....... Online · ready for raids
   <img src="https://github-readme-stats-gamma-dun-47.vercel.app/api?username=Pongeek&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF&ring_color=FF2A6D&count_private=true&card_width=450" alt="stats" />
 </td>
 <td width="50%" align="center">
-  <img src="https://streak-stats.demolab.com?user=Pongeek&theme=synthwave&hide_border=true&background=0D0221&stroke=05D9E8&ring=FF2A6D&fire=FF2A6D&currStreakLabel=05D9E8&dates=D1F7FF&sideNums=D1F7FF&sideLabels=05D9E8&currStreakNum=D1F7FF&card_width=450" alt="streak" />
+  <img src="https://github-readme-streak-stats-zeta-weld.vercel.app?user=Pongeek&theme=synthwave&hide_border=true&background=0D0221&stroke=05D9E8&ring=FF2A6D&fire=FF2A6D&currStreakLabel=05D9E8&dates=D1F7FF&sideNums=D1F7FF&sideLabels=05D9E8&currStreakNum=D1F7FF&card_width=450" alt="streak" />
 </td>
 </tr>
 <tr>
