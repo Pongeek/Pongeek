@@ -38,9 +38,14 @@ NAME ......... Max Mullokandov
 CLASS ........ Full-Stack Mage
 QUEST ........ Game-ifying education
 WEAPONS ...... TypeScript · Java · Python
-XP ........... Gaining daily [#######---]
 STATUS ....... Online · ready for raids
 ```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1200&color=05D9E8&center=true&vCenter=true&width=900&height=40&lines=%E2%9A%A1+NOW+LEARNING:+Spring+Boot+%2B+AWS+Lambda;%E2%9A%A1+SIDE+QUEST:+gamified+learning+loops;%E2%9A%A1+WIELDING:+TypeScript+%C2%B7+Java+%C2%B7+Python;%E2%9A%A1+RAIDING:+AI-driven+tutoring+systems" alt="now learning ticker" />
+
+</div>
 
 <img src="https://raw.githubusercontent.com/Pongeek/Pongeek/main/assets/divider.svg" width="100%" height="6" alt="" />
 
@@ -64,37 +69,7 @@ STATUS ....... Online · ready for raids
   <img src="https://github-readme-stats-gamma-dun-47.vercel.app/api/top-langs/?username=Pongeek&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&text_color=D1F7FF&langs_count=8&card_width=450" alt="top languages" />
 </td>
 <td width="50%" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pongeek&theme=radical&utcOffset=2" alt="productive time" />
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/Pongeek/Pongeek/main/assets/divider.svg" width="100%" height="6" alt="" />
-
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║                  FEATURED QUESTS                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-## `> ./featured_quests.exe`
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/Pongeek/TileTech">
-    <img src="https://github-readme-stats-gamma-dun-47.vercel.app/api/pin/?username=Pongeek&repo=TileTech&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF" alt="TileTech" />
-  </a>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/Pongeek/Portfolio">
-    <img src="https://github-readme-stats-gamma-dun-47.vercel.app/api/pin/?username=Pongeek&repo=Portfolio&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF" alt="Portfolio" />
-  </a>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-  <a href="https://github.com/Pongeek/CoupCoupon-client">
-    <img src="https://github-readme-stats-gamma-dun-47.vercel.app/api/pin/?username=Pongeek&repo=CoupCoupon-client&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF" alt="CoupCoupon" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pongeek&hide_border=true&bg_color=0D0221&color=05D9E8&line=FF2A6D&point=05D9E8&area=true&area_color=FF2A6D&custom_title=Commits+Over+Time" alt="activity graph" />
 </td>
 </tr>
 </table>
