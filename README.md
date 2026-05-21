@@ -180,6 +180,20 @@ STATUS ....... Online · ready for raids
 <img src="https://raw.githubusercontent.com/Pongeek/Pongeek/main/assets/divider.svg" width="100%" height="6" alt="" />
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║                   DEEP STATS                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## `> ./deep_stats.exe`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Pongeek/Pongeek/main/github-metrics.svg" alt="profile metrics dashboard" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Pongeek/Pongeek/main/assets/divider.svg" width="100%" height="6" alt="" />
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!-- ║                     CONNECT                              ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
